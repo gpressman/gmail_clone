@@ -10,6 +10,10 @@
 
 }
 
+.options--row {
+	border: solid 1px #f1f1f1;
+}
+
 .dropdown-toggle1 {
 	color: #d14836;
 	border: 0px;
@@ -17,7 +21,6 @@
 }
 
 .dropdown-toggle2 {
-	padding: 10px;
 	width: 80px	;
 	background-color: #f1f1f1;
 	border: solid 1px;
@@ -29,3 +32,59 @@
 	border: solid 1px;
 
 }
+
+.more {
+	width: 80px;
+	background-color: #f1f1f1;
+	border: solid 1px;
+}
+
+.compose {
+	color: white;
+	 background-color: #d14836
+}
+
+.inbox{
+	color: #d14836;
+}
+
+.label--ironhack {
+	font-size: .7em;
+	background-color: black;
+	color: white;
+}
+
+.email--preview {
+	color: #70705C;
+}
+
+
+.email {
+	border:  #f1f1f1 solid 1px;
+	
+}
+
+.tag--new {
+	color: gold;
+}
+
+.old--email {
+	background-color: #f1f1f1;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
